@@ -1,0 +1,13 @@
+description: Universal 10x 1A power supply module 5V or 12V.
+github_branch: UNIPOWER07A
+github_description: Universal 10x 1A power supply module 5V or 12V.
+github_repo: UNIPOWER07
+github_url: https://github.com/mlab-modules/UNIPOWER07
+homepage: false
+images:
+- doc/img/UNIPOWER07A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: UNIPOWER07
+updated: '2023-09-17T11:30:24.495401+00:00'
